@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/m80r724v08kfl4oh?svg=true)](https://ci.appveyor.com/project/helenkhim/apipart3)
